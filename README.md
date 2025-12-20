@@ -12,4 +12,4 @@ I help coaches, founders, and busy professionals streamline operations with AI-p
 - AI Tools (ChatGPT, Canva Magic, AutoGPT, Make.com)
 
 Let’s connect & collaborate on meaningful, time-saving systems!  
-📩 comforttheva@gmail.com | 🌍 Open to freelance & project 
+📩 c4bode@gmail.com | 🌍 Open to freelance & project 
