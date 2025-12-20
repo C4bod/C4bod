@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @C4bode 
-- 👀 I’m interested in learning more in details and dedication 
-- 🌱 I’m currently learning CCS,JavaScript program with no technological background at all art student trying out tech 
-- 💞️ I’m looking to collaborate on coding I need help on how to code 
-- 📫 How to reach me here or on WhatsApp 07030644895
 
-<!---
-C4bod/C4bod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ Hi, I’m Comfort aka ComfortTheVA 
+AI Automation Specialist | n8n Expert | Admin & Social Media Pro
+
+I help coaches, founders, and busy professionals streamline operations with AI-powered workflows, n8n automations, and custom client systems. With a strong background in administrative support and *ocial media management, I bring structure, clarity, and results to growing businesses.
+
+🔧 Skills: 
+- Workflow Automation (n8n, Zapier, Airtable, HubSpot)  
+- Admin Systems (Notion, Google Workspace, CRM setup)  
+- Social Media Ops (Scheduling, Engagement, Content Planning)  
+- AI Tools (ChatGPT, Canva Magic, AutoGPT, Make.com)
+
+Let’s connect & collaborate on meaningful, time-saving systems!  
+📩 comforttheva@gmail.com | 🌍 Open to freelance & project 
