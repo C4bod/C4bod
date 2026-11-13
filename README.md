@@ -1,15 +1,18 @@
 
 
- Hi, I’m Comfort aka ComfortTheVA 
-AI Automation Specialist | n8n Expert | Admin & Social Media Pro
-
-I help coaches, founders, and busy professionals streamline operations with AI-powered workflows, n8n automations, and custom client systems. With a strong background in administrative support and *ocial media management, I bring structure, clarity, and results to growing businesses.
-
-🔧 Skills: 
-- Workflow Automation (n8n, Zapier, Airtable, HubSpot)  
-- Admin Systems (Notion, Google Workspace, CRM setup)  
-- Social Media Ops (Scheduling, Engagement, Content Planning)  
-- AI Tools (ChatGPT, Canva Magic, AutoGPT, Make.com)
-
-Let’s connect & collaborate on meaningful, time-saving systems!  
-📩 c4bode@gmail.com | 🌍 Open to freelance & project 
+Hi, I'm Comfort Olabode 👋
+I'm an HR & People Operations professional with an interest in Employment Relations, HR systems, digital transformation and AI automation.
+About Me
+- 🎓 Background in Employment Relations and Human Resource Management
+- 💼 Interested in Recruitment, People Operations, and HR Administration
+- 📊 Building practical HR tools, trackers, and documentation systems
+- 🤖 Exploring AI, workflow automation, and digital productivity
+- 🌍 Open to international collaborations and opportunities
+Areas of Interest
+- Human Resources & People Operations
+- Recruitment and Talent Management
+- HR Analytics and Documentation
+- AI and HR Technology
+- Workflow Automation
+Let's Connect
+📩 olabodecomfortabosede@gmail.com | 🌍 Open to freelance & project 
